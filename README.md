@@ -1,0 +1,2 @@
+# DependencyInjectionSample
+EclipseのGITの動作確認
